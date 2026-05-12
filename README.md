@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on Deep learning projects.<br>👯 I’m looking to collaborate on machine learning, computer visino, and NLP projects.<br>🌱 I’m currently learning about machine learning and optimization algorithms.<br>📫 How to reach me: benyaminramezani79@gmail.com
+Interested in solving real-world problems.<br>📫 How to reach me: benyaminramezani79@gmail.com
 
 
 ## 🌐 
